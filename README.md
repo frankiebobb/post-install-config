@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/frankiebobb/post-install-config/assets/133404844/dbade5e5-9527-4e40-8ccd-7ba025a3e141" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AndreRobinsonCC/post-install-config/assets/133404844/dbade5e5-9527-4e40-8ccd-7ba025a3e141" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Load proper sites from ISS to access osTicket.
